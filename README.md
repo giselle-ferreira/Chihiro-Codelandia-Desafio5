@@ -6,14 +6,19 @@
 
 <br>
 
->## Technologies
+>## Technologies 🧰
 + HTML
 + CSS
 + Responsive Layout
 
 <br>
 
->## Layout
+>## Website 💻
+[Chihiro Landing Page](https://chihiro-codelandia.netlify.app/)
+
+<br>
+
+>## Layout 🖼️
 
 <img src="https://github.com/giselle-ferreira/Chihiro-Codelandia-Desafio5/blob/main/assets/chihiro.gif" />
 
